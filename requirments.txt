@@ -1,0 +1,5 @@
+# requirements.txt
+Flask
+requests
+beautifulsoup4
+gunicorn  # 本番環境用のWSGIサーバー
